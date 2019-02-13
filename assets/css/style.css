@@ -1,0 +1,107 @@
+body {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align:center;
+    color: white;
+    text-shadow: 0 0 1px black, -1px -1px 2px black, 1px 0 2px black, 1px 1px 2px black;
+}
+
+.header{
+    padding-top: 20px;
+    text-align:center;
+    background-color: #FFC500;
+    margin: 0 auto;
+}
+
+h1{
+    padding-top: 20px;
+    padding-bottom:10px;
+    text-shadow: -3px -3px 3px grey;
+    font-family: 'Harry Potter';
+    font-size: 4em;
+    letter-spacing: 5px;
+    color: #FFC500;
+    margin: 0 auto;
+
+}
+
+h2 {
+    font-size: 1.7em;
+    padding-bottom:10px;
+    padding-top: 20px;
+    font-family: 'Lumos';
+    text-transform:capitalize;
+    letter-spacing: 4px;
+}
+
+img{
+    clear:both;
+    width: 100%;
+    height:auto;
+    margin: 0 auto;
+}
+
+#GoodLuck {
+    margin-top:80px;
+    width:50%;
+    height: 50%;
+}
+
+.panel {
+    font-family:'Lumos';
+    letter-spacing: 3px;
+
+}
+.panel-default {
+    background-color:#AAAAAA;
+
+}
+
+.panel-title {
+    background-color:#AAAAAA;
+}
+
+.panel-body {
+    background-color:#AAAAAA;
+}
+.container { 
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    text-align: center;   
+    padding-bottom: 20px;
+}
+.col-lg-12 {
+    background-color:#AAAAAA;
+
+}
+h3,
+h4,h5,h6 {
+    font-family:'Harrypotter7';
+    padding: 8px;
+    background-color:#7F0909;
+    letter-spacing: 3px;
+    font-size: 1.3em;
+}
+#gameover-image, #youwin-image{ 
+    padding-top: 60px;
+    display: block;
+    margin: 0 auto;
+}
+
+#currentWord {
+    letter-spacing: 10px;
+}
+
+#pressKeyTryAgain, 
+#gameover-image, 
+#youwin-image { display: none;}
+.gameplay-column {
+    box-shadow: 2px 2px 1px 2px #FFC500;
+    text-align: center;
+    margin-top: 20px;
+    min-height: 500px;
+    background-color: #946B2D;
+    opacity:0.9;
+}
