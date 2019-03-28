@@ -7,4 +7,4 @@ This game was created as my first introduction to Javascript.
 
 I combined my knowledge of HTML, CSS, a little bit of Bootstrap and basic vanilla Javascript to create this keyboard based hangman game. 
 
-Give it a try.. you think you know Harry Potter? Let's see then! .. Good luck! 
+Give it a try.. you think you know Harry Potter? Let's see then! .. Good luck! https://melissakocourek.github.io/Word-Guess-Game/
